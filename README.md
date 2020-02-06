@@ -22,6 +22,7 @@ That's it. You're all set. Someone from the team will contact you and formally w
 - Rajat Sharma 🎧
 - Rajesh Mainali :musical_note:
 - Pavan Jadhaw 🍀
-- Vikas Yadav 🖥 
+- Vikas Yadav 🖥
+- [Manu de Quevedo](https://github.com/ManudeQuevedo) 🤟
 - [theapache64](https://github.com/theapache64) 🚁
 
